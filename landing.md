@@ -1,4 +1,7 @@
 ![Beta Logo](https://ptrguide.github.io/new/assets/img/beta-logo.png)
+
+> [Blog](https://ptrguide.github.io/new/blog) | [PaRappa the Rapper 2 Modding Discord](https://discord.gg/RVa7XQc) | [PTR1/UJL Modding Discord](https://discord.gg/nA5Hkf2) | [PTRGuide Discord](https://discord.gg/Pk3qykb)
+
 # Welcome to PTRGuide!
 PTRGuide v2 is in the works now. This update will be a massive change to the way PTRGuide works and looks due to my discovery of CodiMD, which allows me to make PTRGuide look the way I wanted it to look in the beginning.
 
@@ -7,7 +10,6 @@ PTRGuide v2 is in the works now. This update will be a massive change to the way
 ## Need Help?
 We have these Discord servers available!
 [For PTR2 Modding Help](https://discord.gg/RVa7XQc)
-[For PTR1/UJL Modding Help](https://discord.gg/nA5Hkf2)
 [For Speedrunning/PTRGuide Help/Requests](https://discord.gg/Pk3qykb)
 
 ![PTR2 Modding Guides](https://ptrguide.github.io/new/assets/img/ptr2mod.png)
