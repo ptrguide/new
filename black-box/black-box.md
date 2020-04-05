@@ -91,4 +91,4 @@ Once you've done all of this, you can click "OK".
 
 The black box / noodle issue should be gone. To verify that you've done this correctly, open Stage 3 (you can skip through the cutscene / Boxy Boy by holding L1 and L2 / your keys/buttons mapped to L1 and L2 at the same time when you click "Single Player" when selecting Stage 3. Hold these buttons until the Loading screen pops up. If you did this correctly, once the loading screen is gone, it should go right to the stage.). The black box should be gone and you should have no depth issues / objects covering the lines.
 
-#### If you need help, join the [Discord](https://discord.gg/HRCMKdM) or email ptrhelpline@hotmail.com.
+#### If you need help, join the [PTR2 Modding Discord](https://discord.gg/HRCMKdM).
